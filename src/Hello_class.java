@@ -4,5 +4,4 @@ public class Hello_class {
 		System.out.println("Hello World");
 		System.out.println("Hi World");
 	}
-	
 }
