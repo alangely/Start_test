@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<!--엘리먼트 선언-->
+<!ELEMENT User (User_list+)>
+<!ELEMENT User_list (User_id, User_pw, User_name, User_phone, User_email,User_Master)>
+<!ELEMENT User_id (#PCDATA)>
+<!ELEMENT User_pw (#PCDATA)>
+<!ELEMENT User_name (#PCDATA)>
+<!ELEMENT User_phone (#PCDATA)>
+<!ELEMENT User_email (#PCDATA)>
+<!ELEMENT User_Master (#PCDATA)>
+
+<!--속성 선언-->
+<!ATTLIST User_list idx CDATA #REQUIRED>

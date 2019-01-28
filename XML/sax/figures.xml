@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<figures>
+<circle x="20" y="10" r="20"/>
+<rectangle x="-3" y="4" w="5" h="36"/>
+<ellipse x="-5" y="6" w="30" h="50"/>
+<rectangle x="7" y="23" w="58" h="45"/>
+<circle x="-2" y="5" r="35"/>
+<ellipse x="-10" y="-8" w="45" h="30"/>
+<triangle h="15" w="7"/>
+</figures>

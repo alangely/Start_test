@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<!--엘리먼트 선언-->
+<!ELEMENT NorthFood (North_Food_Recipe+, North_Korean_Restaurant+)>
+<!ELEMENT North_Food_Recipe (Name, Food_Feature, North_location, Recipe_time, North_location_X, North_location_Y,  Korea_Rest_X, Korea_Rest_Y,  Korea_restaurant, F_ingredients,  F_Recipe )>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Food_Feature (#PCDATA)>
+<!ELEMENT North_location (#PCDATA)>
+<!ELEMENT Recipe_time (#PCDATA)>
+<!ELEMENT North_location_X (#PCDATA)>
+<!ELEMENT North_location_Y (#PCDATA)>
+<!ELEMENT Korea_Rest_X (#PCDATA)>
+<!ELEMENT Korea_Rest_Y (#PCDATA)>
+<!ELEMENT Korea_restaurant (#PCDATA)>
+<!ELEMENT F_ingredients (#PCDATA)>
+<!ELEMENT F_Recipe (Recipe_order+)>
+<!ELEMENT Recipe_order (#PCDATA)>
+<!ELEMENT North_Korean_Restaurant (North_Korean_rest+)>
+<!ELEMENT North_Korean_rest (North_Korea_img, North_Korea_name, North_Korea_location, North_Korea_menu, North_Korea_number, North_Korea_Explanation)>
+<!ELEMENT North_Korea_img (#PCDATA)>
+<!ELEMENT North_Korea_name (#PCDATA)>
+<!ELEMENT North_Korea_location (#PCDATA)>
+<!ELEMENT North_Korea_menu (#PCDATA)>
+<!ELEMENT North_Korea_number (#PCDATA)>
+<!ELEMENT North_Korea_Explanation (#PCDATA)>
+
+
+
+<!--속성 선언-->
+<!ATTLIST North_Food_Recipe idx CDATA #REQUIRED>
+<!ATTLIST Recipe_time unit CDATA #REQUIRED>
+<!ATTLIST North_location_X unit CDATA #REQUIRED>
+<!ATTLIST North_location_Y unit CDATA #REQUIRED>
+<!ATTLIST Korea_Rest_X unit CDATA #REQUIRED>
+<!ATTLIST Korea_Rest_Y unit CDATA #REQUIRED>
+<!ATTLIST North_Korean_rest idx CDATA #REQUIRED>

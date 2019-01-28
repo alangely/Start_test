@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="euc-kr"?>
+
+<!ELEMENT swdb (sw_list+)>
+<!ELEMENT sw_list (name, copy, licence, use)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT copy (#PCDATA)>
+<!ELEMENT licence (#PCDATA)>
+<!ELEMENT use (#PCDATA)>
+

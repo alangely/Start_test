@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<!ELEMENT subway (line)*>
+<!ELEMENT line (station)*>
+<!ELEMENT station (name, lap_time, exit)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT lap_time (#PCDATA)>
+<!ELEMENT exit (#PCDATA)>
+<!ATTLIST line number ID #REQUIRED>
+<!ATTLIST station idx NMTOKEN #REQUIRED>
+<!ATTLIST station express CDATA #IMPLIED>
+<!ATTLIST station trans CDATA #IMPLIED>
+<!ATTLIST station etc CDATA #IMPLIED>
+ 

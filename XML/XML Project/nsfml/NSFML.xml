@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE NorthFood SYSTEM "NSFML.dtd">
+  <NorthFood>
+    <North_Food_Recipe idx="1">
+      <Name>평양온반</Name>
+      <Food_Feature>고기국을 따듯한 밥 위에 부어 먹는 장국밥입니다. 겨울 음식으로 국밥과 비슷한 생김새를 가졌습니다. 담백한 국물맛이 특징입니다.</Food_Feature>
+      <North_location>평양</North_location>
+      <Recipe_time unit="min">20분</Recipe_time>
+      <North_location_X unit="m">39.023559</North_location_X>
+      <North_location_Y unit="m">125.729184</North_location_Y>
+      <Korea_Rest_X unit="m">35.966435</Korea_Rest_X>      
+      <Korea_Rest_Y unit="m">126.740506</Korea_Rest_Y>
+      <Korea_restaurant>평양온반</Korea_restaurant>
+      <F_ingredients>흰쌀 750g, 양념간장 40g, 달걀 1개, 닭고기 500g, 표고버섯 150g, 느타리버섯 100g, 간장 20g, 참기름 10g, 파 30g, 후추가루 0.5g, 실고추 1개</F_ingredients>
+      <F_Recipe>
+        <Recipe_order>1. 닭고기는 삶아서 찢어 깨소금, 간장, 파, 후추가루로 무치고 국물은 깨소금, 간장, 후추가루로 양념합니다.&lt;br&gt;2. 표고버섯과 느타리버섯은 데쳐서 닭고기와 같은 굵기로 썰어 볶고 달걀은 지단을 부쳐 가늘게 썬다.&lt;br&gt;3. 흰쌀은 밥을 되게 지어 그릇에 담고 녹두지짐과 닭고기, 버섯을 얹은 다음 국물을 붓고 실파, 실고추, 실지단으로 고명하여 양념간장과 함께 낸다.
+		</Recipe_order>
+      </F_Recipe>
+  	</North_Food_Recipe>
+    
+    <North_Food_Recipe idx="2">
+      <Name>녹두지짐</Name>
+      <Food_Feature>잔치나 명절에 빠지지 않을 정도록 평양사람들이 매우 좋아하는 음식들 중 하나입니다. 돼지고기와 배추김치를 이용하여 돼지기름에 지지며 고소한 맛이 특징입니다.</Food_Feature>
+      <North_location>평양</North_location>
+      <Recipe_time unit="min">15분</Recipe_time>
+      <North_location_X unit="m">39.023559</North_location_X>
+      <North_location_Y unit="m">125.729184</North_location_Y>
+      <Korea_Rest_X unit="m">37.506973</Korea_Rest_X>      
+      <Korea_Rest_Y unit="m">127.052799</Korea_Rest_Y>
+      <Korea_restaurant>평가옥</Korea_restaurant>
+      <F_ingredients>녹두 500g, 돼지고기 150g, 배추김치 150g, 소금 5g, 초간장 5g, 돼지기름 100g, 대파 50g</F_ingredients>
+      <F_Recipe>
+        <Recipe_order>1. 녹두는 물에 불려서 껍질을 벗긴 다음 망에 갈고, 돼지고기는 삶아서 김치와 같은 작은 나박모양으로 썰어줍니다.&lt;br&gt;2. 갈아놓은 녹두에 배추김치, 돼지고기, 소금, 잘게 썬 파를 섞어서 지짐감을 만듭니다.&lt;br&gt;3. 지짐판에 돼지기름을 바르고 지짐감을 도톰하게 놓아 노릇노릇하게 지져서 접시에 담아 초간장과 함께 냅니다.
+        </Recipe_order>
+      </F_Recipe>
+    </North_Food_Recipe>
+  
+    <North_Food_Recipe idx="3">
+      <Name>언감자떡</Name>
+      <Food_Feature>양강도와 자강도 지역특징에 따른 감자 음식이 발달하였습니다. 언감자떡은 언 감자를 말려 가루를 낸 후 반죽하여 시루에 쪄내는 음식으로 식을수록 더 맛있으며 담백한 맛이 특징입니다. </Food_Feature>
+      <North_location>양강도</North_location>
+      <Recipe_time unit="hour">6시간</Recipe_time>
+      <North_location_X unit="m">41.238749</North_location_X>
+      <North_location_Y unit="m">128.506778</North_location_Y>
+      <Korea_Rest_X unit="m">37.241595</Korea_Rest_X>      
+      <Korea_Rest_Y unit="m">128.088040</Korea_Rest_Y>
+      <Korea_restaurant>강원도감시기감자떡</Korea_restaurant>
+      <F_ingredients>감자 3개, 감자전분 200g, 코코넛 가루 50g, 아몬드 20g, 설탕 100g, 뜨거운물 250g</F_ingredients>
+      <F_Recipe>
+        <Recipe_order>1. 감자의 껍질을 칼로 벗긴 후 채썰기하여 물에 담구어 둡니다.&lt;br&gt;2. 1시간 후 감자에서 나온 전분이 빠진 감자물을 따로 받아둡니다. 감자채의 경우 3시간 간격으로 물을 갈아줍니다.&lt;br&gt;3. 따로 받아 둔 감자물은 10분 정도 지나면 하얀앙금이 가라앉아 있습니다. 그 물을 따라내고 다시 깨끗한 물을 부으면 하얀앙금이 가라앉습니다. 이 과정을 2~3번 반복하여 마지막 물을 붓고 나서 말리면, 하얀 감자전분이 만들어집니다&lt;br&gt;4. 깨끗하게 우려낸 감자채를 채반에 부어 손으로 물기를 빼줍니다.&lt;br&gt;5. 물기를 다 짠 후 고류 펴서 식품건조기에 고루 펴서 10시간 정도 건조시키면 바삭해집니다. 이 감자를 식혀서 분쇄기로 갈아주세요.
+        			  &lt;br&gt;6. 분쇄된 감자가루에 소금과 뜨거운 물을 부어 익반죽을 합니다.&lt;br&gt;7. 익반죽이 끝나면 아까 나온 감자전분, 삶은 콩, 갈은 아몬드, 코코넛 가루, 통깨를 넣고 잘 섞어줍니다. &lt;br&gt;8. 그 후 완성된 반죽을 원하는 모양으로 만듭니다. &lt;br&gt;9. 모양 만들기가 끝난 후 김이 오른 찜솥에 20분정도 쪄줍니다.
+        </Recipe_order>
+      </F_Recipe>
+    </North_Food_Recipe>
+    
+    <North_Food_Recipe idx="4">
+      <Name>갓김치</Name>
+      <Food_Feature>양강도와 자강도 지역은 바다를 끼지 않은 높은 산간지대로 기온이 낮아 배추대신 갓을 담가 먹습니다. 양강도의 갓김치는 국물이 발그스름한 고운 색을 내며 시원한 맛을 내는 것이 특징입니다. </Food_Feature>
+      <North_location>양강도</North_location>
+      <Recipe_time unit="hour">5시간</Recipe_time>
+      <North_location_X unit="m">41.238749</North_location_X>
+      <North_location_Y unit="m">128.506778</North_location_Y>
+      <Korea_Rest_X unit="m">34.593930</Korea_Rest_X>      
+      <Korea_Rest_Y unit="m">127.803276</Korea_Rest_Y>
+      <Korea_restaurant>대박갓김치</Korea_restaurant> 
+      <F_ingredients>갓 1000g, 마늘 200g, 파 100g, 생강 50g, 무 1개, 우거지 500g, 소금 100g</F_ingredients>
+      <F_Recipe>
+        <Recipe_order>1. 갓을 손질한 후 소금과 물을 이용해 3시간동안 절입니다.&lt;br&gt;2. 파, 마늘, 생강을 손질합니다.&lt;br&gt; 3. 절여진 갓에 손질된 파, 마늘, 생강, 고춧가루를 섞어줍니다.&lt;br&gt;4. 섞어진 갓을 장독대에 무와 한돌기씩 엇바꾸어 넣고 우거지를 덮어서 익힙니다.</Recipe_order>
+      </F_Recipe>
+    </North_Food_Recipe>
+  
+    <North_Food_Recipe idx="5">
+      <Name>전천닭튀기</Name>
+      <Food_Feature>전천닭튀기는 전천 지방의 닭이 맛 좋기로 북한에서 유명하여 북한식 프라이트 치킨이라고 불립니다. 평안도 지역 특징상 양념을 적게 사용하여 담백한 맛이 특징입니다. </Food_Feature>
+      <North_location>평안도</North_location>
+      <Recipe_time unit="min">30분</Recipe_time>
+      <North_location_X unit="m">39.264525</North_location_X>
+      <North_location_Y unit="m">125.846682</North_location_Y>
+      <Korea_Rest_X unit="m">37.555791</Korea_Rest_X>      
+      <Korea_Rest_Y unit="m">127.010356</Korea_Rest_Y>
+      <Korea_restaurant>만포막국수</Korea_restaurant>
+       <F_ingredients>닭 1마리, 닭내장 250g, 양파 1개, 메추리알 8개, 산초 100g, 당근 1개, 후추가루 50g, 소금 50g, 녹말 150g, 백포도주 1잔, 식용유 1숫갈</F_ingredients>
+      <F_Recipe>
+        <Recipe_order>1. 닭은 소금, 셀러리, 양파, 파, 후추, 산초, 백포도주에 재웠다가 푹 찐다.&lt;br&gt;2. 메추리알은 삶아 껍질을 벗기고 당근과 닭 내장은 메추리알 모양으로 썰어 삶는다.&lt;br&gt;3. 삶은 메추리알, 당근, 닭 내장을 양념하여 꼬치에 꿴다.&lt;br&gt;4. 찐 닭에 녹말을 뿌려서 기름에 튀긴 다음 먹기 좋게 토막내 꼬치와 함께 낸다.</Recipe_order>
+      </F_Recipe>
+    </North_Food_Recipe>
+    
+    <North_Food_Recipe idx="6">
+      <Name>더덕볶음</Name>
+      <Food_Feature>평안도의 음식이 북한에서 가장 맛이 으뜸인 지역으로 뽑힐 정도록 음식이 먹음직스러우며 푸짐한게 특징인데 특히 더덕볶음은 정갈하며 심심한 맛을 특징을 가지고 있다.</Food_Feature>
+      <North_location>평안도</North_location>
+      <Recipe_time unit="min">45분</Recipe_time>
+      <North_location_X unit="m">39.264525</North_location_X>
+      <North_location_Y unit="m">125.846682</North_location_Y>
+      <Korea_Rest_X unit="m">37.506973</Korea_Rest_X>      
+      <Korea_Rest_Y unit="m">127.052799</Korea_Rest_Y>
+      <Korea_restaurant>평가옥</Korea_restaurant>   
+      <F_ingredients>더덕 200g, 소고기 100g, 대파 20g, 홍고추 1개, 다진마늘 100g, 참기름 20g, 간장 20g, 소금 10g, 후추가루 10g</F_ingredients>
+      <F_Recipe>
+        <Recipe_order >1. 더덕은 껍질을 벗기고 두두린 후 길게 찢어 물에 불렸다가 건져 물기를 제거합니다.&lt;br&gt;2. 소고기는 길게 채를 썰고 대파는 반으로 가른 후 길게 채 썰어 준다. 홍고추는 반으로 갈라 씨를 제거하고 채 썰어줍니다.&lt;br&gt;3. 참기름을 팬에 두른 후 채 썬 소고기와 대파를 볶다가 더덕과 채 썬 홍고추, 다진마늘, 간장, 소금, 후춧가루를 넣고 볶아낸 후 그릇에 담고 통깨를 뿌려 상에 낸다.</Recipe_order>
+      </F_Recipe>
+   </North_Food_Recipe>
+
+    <North_Food_Recipe idx="7">
+      <Name>해주비빔밥</Name>
+      <Food_Feature>황해도는 농업이 발달한 지역이라 푸짐하고 수수한 음식을 주로 이루며 해주비빔밥은 양념이 강하지 않고 상큼한 맛을 특징으로 가집니다.</Food_Feature>
+      <North_location>황해도</North_location>
+      <Recipe_time unit="hour">1시간</Recipe_time>
+      <North_location_X unit="m">38.037425</North_location_X>
+      <North_location_Y unit="m">125.707800</North_location_Y>
+      <Korea_Rest_X unit="m">37.457987</Korea_Rest_X>      
+      <Korea_Rest_Y unit="m">126.641227</Korea_Rest_Y>
+      <Korea_restaurant>혜주식당</Korea_restaurant>
+      <F_ingredients>쌀 200g, 돼지고기 100g, 닭고기 100g, 도라지 40g, 미나리 20g, 숙주나물 20g, 불린표고버섯 4개, 달걀 2개, 밀가루 150g, 참기름 30g, 소금 15g, 구운김 1장, 깨소금 15g, 후추가루 10g, 간장 100g</F_ingredients>
+      <F_Recipe>
+        <Recipe_order>1. 밥을 약간 고슬하게 지어서 식힙니다.&lt;br&gt;2. 닭고기는 찬물에 넣어서 40분정도 삶은 후 살을 발라서 깨소금과 후춧가루를 넣고 무칩니다.&lt;br&gt;3. 돼지고기는 얇게 편썰어 소금과 후추를 섞어 밑간을 한 후 밀가루에 뭍힌 다음 달걀 물에 입혀 전을 부칩니다.&lt;br&gt;4. 숙주나물은 끓는 물에 대쳐서 찬물에 식힌 후 물기를 뺀 후 간장, 다진 파, 다진마늘, 깨소금, 후춧가루, 참기름으로 무친다음 볶습니다.&lt;br&gt;5. 미나리는 다듬어서 끓는 물에 살짝 대쳐내어 찬물에 담갔다가 건진 다음 2~3cm 정도의 길이로 썰어 미나리 양념을 두르고 무친 다음 볶습니다.&lt;br&gt;6. 도라지는 삶아서 쌀뜨물에 담가 쓴맛을 없앤 다음 채반에 건져서 물기를 뺴고 양념을 넣고 볶습니다.&lt;br&gt;7. 불린 표고버섯은 살짝 데치고 편을 떠서 잘게 채 썰어줍니다.&lt;br&gt;8. 고사리는 끓는 물에 살짝 대쳐내어 찬물에 담갔다가 건진 다음 국 간장과 다진파, 다진 마늘, 깨소금 등의 양념을 두르고 무칩니다.&lt;br&gt;9. 달군 냄비에 돼지기름을 두르고 식힌 밥을 넣어 볶다가 소금 1/2작은 술과 깨를 뿌려 볶은 다음 그릇에 담습니다.&lt;br&gt;10. 밥위에 준비해놓은 나물과 닭고기 살, 돼지고기 전과 달걀지단으로 고명한 후에 김가루를 뿌리고, 다진 파, 마늘과 간장, 참기름, 설탕 등을 섞은 비빔밥 양념장을 만들어서 함께 먹습니다.</Recipe_order>
+      </F_Recipe>
+    </North_Food_Recipe>
+
+    <North_Food_Recipe idx="8">
+      <Name>바스레기두부탕</Name>
+      <Food_Feature>황해도 해주에서 가장 많이 생산되는 바스레기와 함께 채소를 넣고 끓여낸 탕을 말하며 북한에서 겨울철에 자주 먹는 음식입니다. 시원한 국물맛이 특징입니다.</Food_Feature>
+      <North_location>황해도</North_location>
+      <Recipe_time unit="min">30분</Recipe_time>
+      <North_location_X unit="m">38.037425</North_location_X>
+      <North_location_Y unit="m">125.707800</North_location_Y>
+      <Korea_Rest_X unit="m">37.570713</Korea_Rest_X>      
+      <Korea_Rest_Y unit="m">126.989652</Korea_Rest_Y>
+      <Korea_restaurant>능라밥상</Korea_restaurant>   
+ 	 <F_ingredients>바스레기(바지락) 50g, 두부 1모, 쑥갓 5g, 마늘 4개, 파 50g, 된장 100g, 고춧가루 50g, 후추가루 10g</F_ingredients>
+      <F_Recipe>
+        <Recipe_order>1. 두부는 4cm 간격으로 썰어둡니다.&lt;br&gt;2. 파와 마늘은 다져 놓습니다.&lt;br&gt;3. 쑥갓은 흐르는 물에 씻은 다음 4등분으로 잘라 놓습니다.&lt;br&gt;4. 바지락은 냄비에 넣고, 살짝 삶아 체에 국물을 걸러내고 바지락은 살만 발라냅니다.&lt;br&gt;5. 발라낸 바지락 살은 양념장에 무칩니다.&lt;br&gt;6. 냄비에 걸러낸 국물을 넣은 뒤에 된장, 고춧가루, 두부를 넣고 한소금 끓입니다.&lt;br&gt;7. 두부가 떠오르면 다진 마늘과 파 무친 바지락 살을 넣고 다시 한 번 끓입니다.&lt;br&gt;8. 불을 끄기 직전 쑥갓을 넣고 그릇에 담아냅니다.
+        	</Recipe_order>
+      </F_Recipe>
+    </North_Food_Recipe>
+
+    <North_Korean_Restaurant>
+      <North_Korean_rest idx="1">
+        <North_Korea_img>반룡산.png</North_Korea_img>
+        <North_Korea_name>반룡산</North_Korea_name>
+        <North_Korea_location>서울특별시 강남구 대치동 894-4 1층</North_Korea_location>
+        <North_Korea_menu>함흥냉면 및 북한음식</North_Korea_menu>
+        <North_Korea_number>02-3446-8966</North_Korea_number>
+        <North_Korea_Explanation>수요미식회, 토속적인, 고급스러운, 저녁식사, 데이트, 격식있는, 점심식사, 무료주차, 발렛주차</North_Korea_Explanation>
+      </North_Korean_rest>
+      
+      <North_Korean_rest idx="2">
+        <North_Korea_img>능라도.png</North_Korea_img>
+        <North_Korea_name>능라도</North_Korea_name>
+        <North_Korea_location>경기도 성남시 분당구 운중동 883-3</North_Korea_location>
+        <North_Korea_menu>평양냉면 및 만두</North_Korea_menu>
+        <North_Korea_number>031-781-3989</North_Korea_number>
+        <North_Korea_Explanation>수요미식회, 깔끔한, 찾아라맛있는tv, 데이트, 모임, 회식, 월요일휴무, 무료주차, 발렛</North_Korea_Explanation>
+      </North_Korean_rest>
+      
+      <North_Korean_rest idx="3">
+        <North_Korea_img>평양면옥.png</North_Korea_img>
+        <North_Korea_name>평양면옥</North_Korea_name>
+        <North_Korea_location>서울특별시 강남구 논현동 66-2</North_Korea_location>
+        <North_Korea_menu>평양냉면 및 만두</North_Korea_menu>
+        <North_Korea_number>02-549-5500</North_Korea_number>
+        <North_Korea_Explanation>3대째, 노포, 오래된집, 가족외식, 저녁식사, 해장, 점심식사, 발렛주차</North_Korea_Explanation>
+      </North_Korean_rest>
+      <North_Korean_rest idx="4">
+        <North_Korea_img>평안도만두집.png</North_Korea_img>
+        <North_Korea_name>평안도만두집</North_Korea_name>
+        <North_Korea_location>서울특별시 종로구 내수동 167 대우복합빌딩 지하1층</North_Korea_location>
+        <North_Korea_menu>만두 및 북한음식</North_Korea_menu>
+        <North_Korea_number>02-723-6592</North_Korea_number>
+        <North_Korea_Explanation>수요미식회, 생생정보, tv맛집, 담백한맛, 따끈한국물, 할머니손맛, 점심메뉴, 좌식테이블, 예약필수</North_Korea_Explanation>
+      </North_Korean_rest>
+      
+      <North_Korean_rest idx="5">
+        <North_Korea_img>진남포면옥.png</North_Korea_img>
+        <North_Korea_name>진남포면옥</North_Korea_name>
+        <North_Korea_location>서울시 중구 신당3동 368-89</North_Korea_location>
+        <North_Korea_menu>이북식 찜닭</North_Korea_menu>
+        <North_Korea_number>02-2252-2457</North_Korea_number>
+        <North_Korea_Explanation>수요미식회, 토속적인, 노포, 데이트, 가족외식, 보양식, 연중무휴, 좌식테이블, 연회석</North_Korea_Explanation>
+      </North_Korean_rest>
+      
+      <North_Korean_rest idx="6">
+        <North_Korea_img>도수향.png</North_Korea_img>
+        <North_Korea_name>도수향</North_Korea_name>
+        <North_Korea_location>서울특별시 강남구 신사동 662-7</North_Korea_location>
+        <North_Korea_menu>이북식 떡집</North_Korea_menu>
+        <North_Korea_number>02-540-2939</North_Korea_number>
+        <North_Korea_Explanation>고급스러운, 환갑잔치, 단아한, 상견례, 웨딩카페, 어르신, 아침식사, 예약필수, 야외좌석</North_Korea_Explanation>
+      </North_Korean_rest>
+      
+      <North_Korean_rest idx="7">
+        <North_Korea_img>삼각정.png</North_Korea_img>
+        <North_Korea_name>삼각정</North_Korea_name>
+        <North_Korea_location>서울시 용산구 한강로2가 258</North_Korea_location>
+        <North_Korea_menu>북한음식 및 특수부위 고기</North_Korea_menu>
+        <North_Korea_number>02-798-3666</North_Korea_number>
+        <North_Korea_Explanation>식신로드, 노포, 오래된맛집, 허름한, 회식장소, 엔틱한, 월요일휴무, 연탄불</North_Korea_Explanation>
+      </North_Korean_rest>
+    </North_Korean_Restaurant>
+ 
+ </NorthFood>

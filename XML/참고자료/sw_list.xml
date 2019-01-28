@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE swdb SYSTEM "swdb.dtd">
+<swdb>
+  <sw_list>
+    <name>ABOV_CodeGen32</name>
+    <copy>ABOV Semiconductor</copy>
+    <licence>preware</licence>
+    <use>develop</use>
+  </sw_list>
+  <sw_list>
+    <name>ABOV_VPE</name>
+    <copy>ABOV Semiconductor</copy>
+    <licence>preware</licence>
+    <use>develop</use>
+  </sw_list>
+  <sw_list>
+    <name>4 Elements II</name>
+    <copy>WildTangent</copy>
+    <licence>commerceSW</licence>
+    <use>game</use>
+  </sw_list>
+  <sw_list>
+    <name>Abyss Odyssey</name>
+    <copy>ACE Team Software</copy>
+    <licence>commerceSW</licence>
+    <use>game</use>
+  </sw_list>
+  <sw_list>
+    <name>Across The Line</name>
+    <copy>Emblematic</copy>
+    <licence>preware</licence>
+    <use>game</use>
+  </sw_list>
+  <sw_list>
+    <name>abPhoto</name>
+    <copy> Acer </copy>
+    <licence>preware</licence>
+    <use>graphic</use>
+  </sw_list>
+  <sw_list>
+    <name>ACDSee 18</name>
+    <copy>ACD Systems International</copy>
+    <licence>commerceSW</licence>
+    <use>graphic</use>
+  </sw_list>
+  <sw_list>
+    <name>Adobe Photoshop 5.0.2K</name>
+    <copy>Adobe Systems</copy>
+    <licence>commerceSW</licence>
+    <use>graphic</use>
+  </sw_list>
+  <sw_list>
+    <name>A360 Desktop Installation Tool</name>
+    <copy>Autodesk</copy>
+    <licence>commerceSW</licence>
+    <use>network</use>
+  </sw_list>
+  <sw_list>
+    <name>AdRem MyNet Toolset</name>
+    <copy>AdRem</copy>
+    <licence>preware</licence>
+    <use>network</use>
+  </sw_list>
+  <sw_list>
+    <name>Array SSL VPN</name>
+    <copy>Array Networks</copy>
+    <licence>commerceSW</licence>
+    <use>network</use>
+  </sw_list>
+  <sw_list>
+    <name>ADLINK PCIS-DASK v5.03</name>
+    <copy>ADLINK Technology</copy>
+    <licence>commerceSW</licence>
+    <use>database</use>
+  </sw_list>
+  <sw_list>
+    <name>Aegis ERP SYSTEM</name>
+    <copy>AEGIS</copy>
+    <licence>commerceSW</licence>
+    <use>database</use>
+  </sw_list>
+  <sw_list>
+    <name>ALTIBASE HDB Client 6.5.1.1.2</name>
+    <copy>Altibase</copy>
+    <licence>commerceSW</licence>
+    <use>database</use>
+  </sw_list>
+  <sw_list>
+    <name>1gram player</name>
+    <copy>1GramMedia</copy>
+    <licence>preware</licence>
+    <use>multimedia</use>
+  </sw_list>
+  <sw_list>
+    <name>4K Video Downloader 4.1</name>
+    <copy>OpenMedia </copy>
+    <licence>preware</licence>
+    <use>multimedia</use>
+  </sw_list>
+  <sw_list>
+    <name>Ableton Live 9 Lite</name>
+    <copy>Ableton</copy>
+    <licence>commerceSW</licence>
+    <use>multimedia</use>
+  </sw_list>
+  <sw_list>
+    <name>360 Total Security</name>
+    <copy>360 SOFTWARE</copy>
+    <licence>commerceSW</licence>
+    <use>security</use>
+  </sw_list>
+  <sw_list>
+    <name>FireEye Endpoint Agent</name>
+    <copy>FireEye</copy>
+    <licence>commerceSW</licence>
+    <use>security</use>
+  </sw_list>
+  <sw_list>
+    <name>FSD Client for CHUNGEORAM Wix</name>
+    <copy>Fasoo.com</copy>
+    <licence>commerceSW</licence>
+    <use>security</use>
+  </sw_list>
+  <sw_list>
+    <name>Band-in-a-Box Server</name>
+    <copy>PG Music</copy>
+    <licence>preware</licence>
+    <use>server</use>
+  </sw_list>
+  <sw_list>
+    <name>Brother BRAdmin Light 1.27.0001</name>
+    <copy>Brother Industries</copy>
+    <licence>preware</licence>
+    <use>server</use>
+  </sw_list>
+  <sw_list>
+    <name>CrashPlan PROe</name>
+    <copy>Code 42</copy>
+    <licence>commerceSW</licence>
+    <use>server</use>
+  </sw_list>
+  <sw_list>
+    <name>Amazon Assistant</name>
+    <copy>Amazon.com</copy>
+    <licence>preware</licence>
+    <use>activeX</use>
+  </sw_list>
+  <sw_list>
+    <name>ASUS GIFTBOX</name>
+    <copy>ASUSTeK Computer</copy>
+    <licence>preware</licence>
+    <use>activeX</use>
+  </sw_list>
+  <sw_list>
+    <name>Avira Safe Shopping</name>
+    <copy> Avira Operations</copy>
+    <licence>preware</licence>
+    <use>activeX</use>
+  </sw_list>
+  <sw_list>
+    <name>EaseUS Partition Recovery 5.6.1</name>
+    <copy>EASEUS</copy>
+    <licence>preware</licence>
+    <use>utility</use>
+  </sw_list>
+  <sw_list>
+    <name>Eassos PartitionGuru 4.9.5</name>
+    <copy>Eassos</copy>
+    <licence>shareware</licence>
+    <use>utility</use>
+  </sw_list>
+  <sw_list>
+    <name>eosmsg V4.5</name>
+    <copy>CammsG</copy>
+    <licence>preware</licence>
+    <use>utility</use>
+  </sw_list>
+  <sw_list>
+    <name>AIreportLauncher</name>
+    <copy>SOLBITECH</copy>
+    <licence>commerceSW</licence>
+    <use>office</use>
+  </sw_list>
+  <sw_list>
+    <name>Beyond Compare Version 2.1.2</name>
+    <copy>Scooter Software</copy>
+    <licence>commerceSW</licence>
+    <use>office</use>
+  </sw_list>
+  <sw_list>
+    <name>Cablescan TestRite</name>
+    <copy>Cablescan</copy>
+    <licence>preware</licence>
+    <use>office</use>
+  </sw_list>
+  <sw_list>
+    <name>Adobe Acrobat 2017</name>
+    <copy>Adobe Systems</copy>
+    <licence>commerceSW</licence>
+    <use>publication</use>
+  </sw_list>
+  <sw_list>
+    <name>Adobe Reader 7.0.9</name>
+    <copy>Adobe Systems</copy>
+    <licence>commerceSW</licence>
+    <use>publication</use>
+  </sw_list>
+  <sw_list>
+    <name>AladinViewer</name>
+    <copy>알라딘커뮤니케이션</copy>
+    <licence>preware</licence>
+    <use>publication</use>
+  </sw_list>
+  <sw_list>
+    <name>Aaronia AG - MCS Spectrum Analyzer</name>
+    <copy>Gewerbegebiet Aaronia</copy>
+    <licence>preware</licence>
+    <use>analysis</use>
+  </sw_list>
+  <sw_list>
+    <name>AhnLab Policy Server</name>
+    <copy>AhnLab</copy>
+    <licence>commerceSW</licence>
+    <use>analysis</use>
+  </sw_list>
+  <sw_list>
+    <name>AsungErectE 2.0</name>
+    <copy>아성정보(주)</copy>
+    <licence>commerceSW</licence>
+    <use>analysis</use>
+  </sw_list>
+  <sw_list>
+    <name>BEST.WISE</name>
+    <copy>(주)한국전산기술</copy>
+    <licence>preware</licence>
+    <use>economic</use>
+  </sw_list>
+  <sw_list>
+    <name>COMPOS</name>
+    <copy>콤웨어</copy>
+    <licence>preware</licence>
+    <use>economic</use>
+  </sw_list>
+  <sw_list>
+    <name>DataGuide</name>
+    <copy>FnGuide</copy>
+    <licence>commerceSW</licence>
+    <use>economic</use>
+  </sw_list>
+</swdb>

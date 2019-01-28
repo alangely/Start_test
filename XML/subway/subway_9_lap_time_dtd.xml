@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<!DOCTYPE subway SYSTEM "subway.dtd">
+<subway>
+	<line number="L9">
+		<station idx="1">
+            <name>개화</name>
+            <lap_time>2</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0901</station_call_number>
+			<Luggage_storage>No</Luggage_storage>
+        </station>
+		<station idx="2" express="true" trans="5" etc="공항">
+   		    <name>김포공항</name>
+            <lap_time>1</lap_time>
+            <toilet>both</toilet>
+            <station_call_number>02-2656-0902</station_call_number>
+			<Luggage_storage>No</Luggage_storage>
+        </station>
+		<station idx="3">
+    		<name>공항시장</name>
+            <lap_time>3</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0903</station_call_number>
+			<Luggage_storage>No</Luggage_storage>
+	    </station>
+		<station idx="4">
+		    <name>신방화</name>
+            <lap_time>2</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0904</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage>
+        </station>
+		<station idx="5">
+            <name>양천향교</name>
+            <lap_time>1</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0906</station_call_number> 
+			<Luggage_storage>Yes</Luggage_storage> 
+        </station>
+		<station idx="6" express="true">
+            <name>가양</name>
+            <lap_time>1</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0907</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage>  
+        </station>
+		<station idx="7">
+		    <name>증미</name>
+            <lap_time>1</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0908</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage> 
+        </station>
+		<station idx="8">
+            <name>등촌</name>
+            <lap_time>2</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0909</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage> 
+       </station>
+		<station idx="9" express="true">
+		    <name>염창</name>
+            <lap_time>3</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0910</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage> 
+       </station>
+		<station idx="10">
+		    <name>신목동</name>
+            <lap_time>2</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0911</station_call_number> 
+			<Luggage_storage>No</Luggage_storage>
+	    </station>
+		<station idx="11">
+		    <name>선유도</name>
+            <lap_time>2</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0912</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage> 
+		</station>
+		<station idx="12" express="true" trans="2">
+ 		    <name>당산</name>
+            <lap_time>3</lap_time>
+            <toilet>in</toilet>
+            <station_call_number>02-2656-0913</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage> 
+        </station>
+		<station idx="13">
+		    <name>국회의사당</name>
+            <lap_time>3</lap_time>
+            <toilet>both</toilet>
+            <station_call_number>02-2656-0914</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage> 
+		</station>
+		<station idx="14" express="true" trans="5">
+		    <name>여의도</name>
+            <lap_time>1</lap_time>
+            <toilet>both</toilet>
+            <station_call_number>02-2656-0915</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage> 
+	    </station>
+		<station idx="15">
+		    <name>샛강</name>
+            <lap_time>1</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0916</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage>
+		</station>
+		<station idx="16" express="true" trans="1">
+		    <name>노량진</name>
+            <lap_time>2</lap_time>
+            <toilet>both</toilet>
+            <station_call_number>02-2656-0917</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage>
+		</station>
+		<station idx="17">
+		    <name>노들</name>
+            <lap_time>2</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0918</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage>
+		</station>
+	    <station idx="18">
+		    <name>흑석</name>
+            <lap_time>3</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0919</station_call_number>
+			<Luggage_storage>No</Luggage_storage>
+		</station>
+	            
+	    <station idx="19" express="true">
+		    <name>동작</name>
+            <lap_time>2	</lap_time>
+            <toilet>both</toilet>
+            <station_call_number>02-2656-0920</station_call_number>
+			<Luggage_storage>No</Luggage_storage>
+		</station>
+	    <station idx="20">
+		    <name>구반포</name>
+            <lap_time>2</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0921</station_call_number>
+			<Luggage_storage>No</Luggage_storage>
+        </station>
+	    <station idx="21">
+		    <name>신반포</name>
+            <lap_time>2</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0922</station_call_number>
+			<Luggage_storage>No</Luggage_storage>
+        </station>
+	    <station idx="22" express="true">
+		    <name>고속터미널</name>
+            <lap_time>2</lap_time>
+            <toilet>both</toilet>
+            <station_call_number>02-2656-0923</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage>
+		</station>
+	    <station idx="23">
+ 		    <name>사평</name>
+            <lap_time>2</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0924</station_call_number>
+			<Luggage_storage>No</Luggage_storage>
+		</station>
+		<station idx="24">
+		    <name>신논현</name>
+            <lap_time>3</lap_time>
+            <toilet>out</toilet>
+            <station_call_number>02-2656-0925</station_call_number>
+			<Luggage_storage>Yes</Luggage_storage>
+		</station>
+	</line>
+</subway>

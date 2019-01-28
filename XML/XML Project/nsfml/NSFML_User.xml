@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE User SYSTEM "NSFML_User.dtd">
+<User>
+  <User_list idx="1">
+    <User_id>alangely</User_id>
+    <User_pw>heejea</User_pw>
+    <User_name>송희재</User_name>
+    <User_phone>01024489325</User_phone>
+    <User_email>alangely@naver.com</User_email>
+    <User_Master>Yes</User_Master>
+  </User_list>
+  <User_list idx="2">
+    <User_id>Sonug</User_id>
+    <User_pw>so12341</User_pw>
+    <User_name>송군호</User_name>
+    <User_phone>01035179985</User_phone>
+    <User_email>njd13@gmail.com</User_email>
+    <User_Master>No</User_Master>
+  </User_list>
+  <User_list idx="3">
+    <User_id>alsfnjh</User_id>
+    <User_pw>2938njd</User_pw>
+    <User_name>김강현</User_name>
+    <User_phone>01044579625</User_phone>
+    <User_email>next12@naver.com</User_email>
+    <User_Master>No</User_Master>
+  </User_list>
+  <User_list idx="4">
+    <User_id>NedLe</User_id>
+    <User_pw>12pwndjh</User_pw>
+    <User_name>장준영</User_name>
+    <User_phone>01087693325</User_phone>
+    <User_email>wportn@naver.com</User_email>
+    <User_Master>No</User_Master>
+  </User_list>
+  <User_list idx="5">
+    <User_id>Gfdomail</User_id>
+    <User_pw>12356789</User_pw>
+    <User_name>공도일</User_name>
+    <User_phone>01022489965</User_phone>
+    <User_email>jekatu@gmail.com</User_email>
+    <User_Master>No</User_Master>
+  </User_list>
+</User>

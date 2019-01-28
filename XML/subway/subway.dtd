@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<!ELEMENT subway (line)*>
+<!ELEMENT line (station)*>
+<!ELEMENT station (name, lap_time, toilet, station_call_number, Luggage_storage)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT lap_time (#PCDATA)>
+<!ELEMENT toilet (#PCDATA)>
+<!ELEMENT station_call_number (#PCDATA)>
+<!ELEMENT Luggage_storage (#PCDATA)>
+<!ATTLIST line number ID #REQUIRED>
+<!ATTLIST station idx NMTOKEN #REQUIRED>
+<!ATTLIST station express CDATA #IMPLIED>
+<!ATTLIST station trans CDATA #IMPLIED>
+<!ATTLIST station etc CDATA #IMPLIED>
+ 

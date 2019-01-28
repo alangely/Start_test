@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="euc-kr"?>
+
+<!ELEMENT booklist (book+)>
+<!ELEMENT book (title, author, publisher,price )>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+
+<!ATTLIST book kind CDATA "컴퓨터">
+<!ATTLIST book id ID #REQUIRED>
